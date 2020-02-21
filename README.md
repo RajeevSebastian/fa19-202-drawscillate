@@ -95,7 +95,7 @@ Along with refactoring, I also implemented the following design patterns: Single
 As a member of the drawscillate team I worked on the logic for game completion and the ability for the user to go back to the main screen
 #### Game completion logic
 
-I implemented the logic by which we could identify when the player has successfully completed the game.It was done by creatinf checkpoints on the screen which the user had to traverse.
+I implemented the logic by which we could identify when the player has successfully completed the game.It was done by creating checkpoints on the screen which the user had to traverse.
 
 #### Design Patterns
 
